@@ -43,4 +43,4 @@ To execute this digital signal processing pipeline locally, ensure your environm
 ### Execution Instructions
 1. Clone this repository to your workstation:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Digital-Signal-Encoding-MATLAB.git](https://github.com/YOUR_USERNAME/Digital-Signal-Encoding-MATLAB.git)
+   git clone [https://github.com/sarazaee/Digital-Signal-Encoding-MATLAB.git](https://github.com/sarazaee/Digital-Signal-Encoding-MATLAB.git)
